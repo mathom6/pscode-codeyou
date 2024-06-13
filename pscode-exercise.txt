@@ -1,0 +1,7 @@
+In a loop (1-15):
+If num/3 = integer, print fizz
+If num/5 = integer, print buzz
+If num/3 and num/5 = integer, print fizzbuzz
+
+
+
